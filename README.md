@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ricardo-ramin
-- 👀 I’m interested in punk, arte and technology
+- 👀 I’m interested in punk, art and technology
 - 🌱 I’m currently learning programming and design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
